@@ -262,7 +262,7 @@ if (USER_AGENT.match(/MSIE 8./) || USER_AGENT.match(/MSIE 7./) || USER_AGENT.mat
                     // ab1.style.display = 'block';
                     ag.style.display = 'block';
                     // agp.style.display = 'block';
-                    ah.href = 'http://mh.dpqct.com/meihu_v1.0.2_2019-03-21_Product_mhwx_xzz.apk';
+                    ah.href = 'http://mh.dpqct.com/meihu_v1.0.3_2019-03-29_Product_mhwx_xzz.apk';
                 }
                 if (GLOBAL.DEVICE_TYPE) {
                     M.style.backgroundImage = 'url("images/mobile_function4_table_background_4x.png")';
