@@ -2850,8 +2850,8 @@
 }
 
 #nav_QRCode_hover_img {
-    /*background-image: url("../images/nav279486.png");*/
-    background-size: 108px 172px;
+    background-image: url("../images/qrcode.png");
+    background-size: 100% 100%;
     background-position: 0 100%;
     background-repeat: no-repeat;
 }
@@ -3211,8 +3211,8 @@ screen and (min-device-width:1366px) {
         background-position: 0 -44px;
     }
     #nav_QRCode_hover_img {
-        /*background-image: url("../images/nav279486.png");*/
-        background-size: 108px 172px;
+        background-image: url("../images/qrcode.png");
+        background-size: 100% 100%;
         background-position: 0 100%;
         background-repeat: no-repeat;
     }
@@ -3514,7 +3514,9 @@ screen and (min-device-pixel-ratio:1.5) {
     }
     #nav_QRCode_hover_img {
         /*background-image: url("../images/nav_2x279486.png");*/
-        background-size: 108px 172px;
+        /*background-size: 108px 172px;*/
+        background-image: url("../images/qrcode.png");
+        background-size: 100% 100%;
         background-position: 0 100%;
         background-repeat: no-repeat;
     }
@@ -3826,7 +3828,9 @@ screen and (min-device-pixel-ratio:1.5) and (min-device-width:1366px) {
     }
     #nav_QRCode_hover_img {
         /*background-image: url("../images/nav_2x279486.png");*/
-        background-size: 108px 172px;
+        /*background-size: 108px 172px;*/
+        background-image: url("../images/qrcode.png");
+        background-size: 100% 100%;
         background-position: 0 100%;
         background-repeat: no-repeat;
     }
@@ -4136,7 +4140,9 @@ screen and (min-device-pixel-ratio:3) {
     }
     #nav_QRCode_hover_img {
         /*background-image: url("../images/nav_2x279486.png");*/
-        background-size: 108px 172px;
+        /*background-size: 108px 172px;*/
+        background-image: url("../images/qrcode.png");
+        background-size: 100% 100%;
         background-position: 0 100%;
         background-repeat: no-repeat;
     }
